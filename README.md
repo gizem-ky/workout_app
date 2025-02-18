@@ -34,7 +34,8 @@ Uygulamanın tüm özelliklerini görmek için projeyi indirip deneyebilirsiniz!
 
 1️⃣ **Projeyi klonlayın:**
 ```bash
-git clone https://github.com/kullanici/fitness-app.git
+git clone https://github.com/kullanici/workout_app.git
+cd workout_app
 ```
 
 2️⃣ **Bağımlılıkları yükleyin:**
