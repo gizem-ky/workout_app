@@ -2,7 +2,7 @@
 
 Merhaba! Fitness yolculuğunuzu bir üst seviyeye taşımaya hazır mısınız? 💪📱 
 
-Bu **Flutter ve Dart** ile geliştirilmiş **Fitness Takip Uygulaması**, kullanıcı dostu bir arayüz sunarak fitness takibini kolaylaştırır. 🚀🔥
+Bu **Flutter ve Dart** ile geliştirilmiş **Fitness Takip Uygulaması**, kullanıcı dostu bir arayüz sunarak fitness takibini kolaylaştırır. 
 
 
 ---
@@ -26,11 +26,10 @@ Bu **Flutter ve Dart** ile geliştirilmiş **Fitness Takip Uygulaması**, kullan
   <img src="./screenshots/workout_detail.png"  width="300">
 </p>
 
-Uygulamanın tüm özelliklerini görmek için projeyi indirip deneyebilirsiniz! 🎯
 
 ---
 
-## 🚀 Kurulum ve Kullanım
+##  Kurulum ve Kullanım
 
 1️⃣ **Projeyi klonlayın:**
 ```bash
@@ -51,4 +50,5 @@ flutter run
 > 📌 Not: Uygulamayı çalıştırmadan önce Flutter SDK ve ilgili araçların kurulu olduğundan emin olun.
 
 ---
+
 
